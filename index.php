@@ -93,10 +93,10 @@ echo "<script>alert('Invalid Details');</script>";
 <p class="help-block"><a href="user-forgot-password.php">Forgot Password</a></p>
 </div>
 
- <!-- <div class="form-group">
+ <div class="form-group">
 <label>Verification code : </label>
 <input type="text" class="form-control1"  name="vercode" maxlength="5" autocomplete="off" required  style="height:25px;" />&nbsp;<img src="captcha.php">
-</div>  -->
+</div> 
 
  <button type="submit" name="login" class="btn btn-info">LOGIN </button> | <a href="signup.php">Not Register Yet</a>
 </form>

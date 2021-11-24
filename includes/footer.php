@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                   &copy; <?php date('Y'); ?> | Designed by : PHPGURUKUL
+                   &copy; <?php echo date("Y"); ?> | Designed by : HOLARMY
                 </div>
 
             </div>
